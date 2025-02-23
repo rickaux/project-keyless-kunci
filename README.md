@@ -35,5 +35,12 @@
 🌟 **Dukung proyek ini dengan memberi Star!**  
 
 ---
+link github author:
+https://github.com/PusatTerbuka
+https://github.com/rickaux
+
+
+youtube:
+http://youtube.com/@Pusat_Terbuka
 
 © 2025 PusatTerbuka | Dibuat dengan ❤️ oleh komunitas  
