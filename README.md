@@ -32,7 +32,7 @@
 ⚠️ **[RFID Issue]**  
 > **RFID masih belum terbaca saat kartu ditempelkan**.  
 > Ini menjadi tantangan terbesar saat ini. Jika Anda punya ide atau solusi, silakan kontribusi!  
-> 📥 **Laporkan solusi atau saran:** [Buat Issue](https://github.com/rickaux/repository/issues)  
+> 📥 **Laporkan solusi atau saran:** [Buat Issue](https://github.com/rickaux/project-keyless-kunci/issues)  
 
 ---
 
@@ -44,7 +44,7 @@
 
 📌 **Ingin berkontribusi?**  
 🔗 [Lihat panduan kontribusi](./CONTRIBUTING.md)  
-📥 **Laporkan bug atau request fitur baru:** [Buat Issue](https://github.com/rickaux4/repository/issues)  
+📥 **Laporkan bug atau request fitur baru:** [Buat Issue](https://github.com/rickaux/project-keyless-kunci/issues)  
 🌟 **Dukung proyek ini dengan memberi Star!**  
 
 ---
