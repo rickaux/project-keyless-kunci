@@ -12,6 +12,46 @@
 
 ---
 
+## 🔌 Wiring Komponen  
+
+### 📡 **RFID RC522 ke Arduino UNO R3**  
+| **Pin RFID RC522** | **Ke Arduino UNO R3** |
+|--------------------|---------------------|
+| VCC               | 3.3V                |
+| GND               | GND                 |
+| RST               | Pin 9               |
+| IRQ               | (Tidak digunakan)   |
+| MISO              | Pin 12              |
+| MOSI              | Pin 11              |
+| SCK               | Pin 13              |
+| SS (SDA)          | Pin 10 (Pin RQ)     |
+
+---
+
+### 🔌 **Relay 1 Channel ke Arduino UNO R3**  
+| **Pin Relay** | **Ke Arduino UNO R3** |
+|--------------|----------------------|
+| VCC          | 5V                   |
+| GND          | GND                  |
+| IN           | Pin 8                |
+
+ℹ️ **Catatan:**  
+- Relay menggunakan **active low**, sehingga **LOW = ON** dan **HIGH = OFF**.
+
+---
+
+### 🖥 **LCD I2C 16x2 ke Arduino UNO R3**  
+| **Pin LCD I2C** | **Ke Arduino UNO R3** |
+|-----------------|----------------------|
+| VCC            | 5V                   |
+| GND            | GND                  |
+| SDA            | A4                   |
+| SCL            | A5                   |
+
+ℹ️ **Alamat I2C terdeteksi:** `0x2F`
+
+---
+
 ## ✨ Fitur Baru  
 - 🖥 **[LCD]** Integrasi **LCD 16x2 I2C** untuk menampilkan status akses.  
 - 🆔 **[RFID]** Dukungan untuk **kartu RFID berbasis KTP** sebagai kartu utama.  
