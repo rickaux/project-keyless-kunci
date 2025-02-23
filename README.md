@@ -3,7 +3,7 @@
 📅 **Versi:** `v1.2.0`  
 🗓 **Tanggal Rilis:** 23 Februari 2025  
 📂 **Status:** Open Source  
-lihat info detail di |: https://youtu.be/rxW7EtRJ5wc?si=GjvPGsx8PfAvg6UB
+🔎 **Lihat info detail di YouTube:** [Klik di sini](https://youtu.be/rxW7EtRJ5wc?si=GjvPGsx8PfAvg6UB)  
 
 ---
 
@@ -24,6 +24,14 @@ lihat info detail di |: https://youtu.be/rxW7EtRJ5wc?si=GjvPGsx8PfAvg6UB
 
 ---
 
+## 🚧 Kendala Saat Ini (Work In Progress)  
+⚠️ **[RFID Issue]**  
+> **RFID masih belum terbaca saat kartu ditempelkan**.  
+> Ini menjadi tantangan terbesar saat ini. Jika Anda punya ide atau solusi, silakan kontribusi!  
+> 📥 **Laporkan solusi atau saran:** [Buat Issue](https://github.com/rickaux4/repository/issues)  
+
+---
+
 ## 📜 Catatan  
 ❗ **[OpenSource]** Karena ini adalah **proyek open source**, kalian **tidak boleh mengkomersialkan** kode ini!  
 💙 **[Community]** Terima kasih kepada **PusatTerbuka** dan semua developer yang berkontribusi!  
@@ -36,17 +44,15 @@ lihat info detail di |: https://youtu.be/rxW7EtRJ5wc?si=GjvPGsx8PfAvg6UB
 🌟 **Dukung proyek ini dengan memberi Star!**  
 
 ---
-link github author:
-https://github.com/PusatTerbuka
-https://github.com/rickaux
 
-youtube:
-http://youtube.com/@Pusat_Terbuka
+## 🔗 Link Developer & Komunitas  
+**GitHub Author:**  
+- [PusatTerbuka](https://github.com/PusatTerbuka)  
+- [Rickaux](https://github.com/rickaux)  
 
-code ini masih ada eror
-jadi si rfid masih belum kebaca saat di tempelkan kartunya
-itu menjadi tantangan terbesar untuk saat ini
+📺 **YouTube:**  
+- [Pusat Terbuka](http://youtube.com/@Pusat_Terbuka)  
 
-
+---
 
 © 2025 PusatTerbuka | Dibuat dengan ❤️ oleh komunitas  
