@@ -3,6 +3,7 @@
 📅 **Versi:** `v1.2.0`  
 🗓 **Tanggal Rilis:** 23 Februari 2025  
 📂 **Status:** Open Source  
+lihat info detail di |: https://youtu.be/rxW7EtRJ5wc?si=GjvPGsx8PfAvg6UB
 
 ---
 
@@ -45,5 +46,7 @@ http://youtube.com/@Pusat_Terbuka
 code ini masih ada eror
 jadi si rfid masih belum kebaca saat di tempelkan kartunya
 itu menjadi tantangan terbesar untuk saat ini
+
+
 
 © 2025 PusatTerbuka | Dibuat dengan ❤️ oleh komunitas  
