@@ -7,9 +7,15 @@
 
 ---
 
+## 📷 Diagram Rangkaian  
+![Project Keyless Wiring Diagram](https://raw.githubusercontent.com/rickaux/project-keyless-kunci/refs/heads/devlopment/project%20keyless%20wiring%20diagram%20fritzing_bb.jpg)  
+
+---
+
 ## ✨ Fitur Baru  
 - 🖥 **[LCD]** Integrasi **LCD 16x2 I2C** untuk menampilkan status akses.  
 - 🆔 **[RFID]** Dukungan untuk **kartu RFID berbasis KTP** sebagai kartu utama.  
+- 📡 **[Failover]** Implementasi **failover Starlink** untuk konektivitas yang lebih andal.  
 
 ## ⚡ Peningkatan & Optimalisasi  
 - ⚙️ **[Relay]** Penggunaan **relay active low** agar lebih kompatibel dengan sistem kontrol.  
