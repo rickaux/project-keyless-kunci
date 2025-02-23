@@ -39,8 +39,11 @@ link github author:
 https://github.com/PusatTerbuka
 https://github.com/rickaux
 
-
 youtube:
 http://youtube.com/@Pusat_Terbuka
+
+code ini masih ada eror
+jadi si rfid masih belum kebaca saat di tempelkan kartunya
+itu menjadi tantangan terbesar untuk saat ini
 
 © 2025 PusatTerbuka | Dibuat dengan ❤️ oleh komunitas  
