@@ -15,7 +15,6 @@
 ## ✨ Fitur Baru  
 - 🖥 **[LCD]** Integrasi **LCD 16x2 I2C** untuk menampilkan status akses.  
 - 🆔 **[RFID]** Dukungan untuk **kartu RFID berbasis KTP** sebagai kartu utama.  
-- 📡 **[Failover]** Implementasi **failover Starlink** untuk konektivitas yang lebih andal.  
 
 ## ⚡ Peningkatan & Optimalisasi  
 - ⚙️ **[Relay]** Penggunaan **relay active low** agar lebih kompatibel dengan sistem kontrol.  
